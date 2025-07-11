@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thejitendradev&label=Profile%20views&color=0e75b6&style=flat" alt="thejitendradev" /> </p>
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **in my final year of B.Tech in Computer Science and Engineering**
 
-- 👨‍💻 All of my projects are available at [https://jitendra-behera-029.netlify.app/](https://jitendra-behera-029.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/TheJitendraDev/](https://github.com/TheJitendraDev/)
 
 - 💬 Ask me about **Java, python**
 
